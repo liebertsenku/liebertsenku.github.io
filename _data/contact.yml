@@ -1,4 +1,4 @@
-#  The contact options.
+# The contact options.
 
 - type: github
   icon: "fab fa-github"
@@ -6,15 +6,16 @@
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
-  url: https://twitter.com/lievebert177671
+  url: https://twitter.com/lievebert
 
 - type: email
   icon: "fas fa-envelope"
-  url: 'farelfarelbb@gmail.com' # open link in current tab
+  url: 'mailto:farelfarelbb@gmail.com'
 
 - type: instagram
   icon: "fas fa-instagram"
   url: https://www.instagram.com/frrll.agl/
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
