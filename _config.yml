@@ -6,20 +6,20 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: id 
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Makassar
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Ahmad Farel Algifhari # the main title
 
-tagline: Personal Blog # it will display as the subtitle
+tagline: Hasanuddin University Sistem information Major Student # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Everything in my IT life
+  This is my personal Blog , where I share my knowledge and experience in the field of Information Systems.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -29,7 +29,7 @@ github:
   username: liebertsenku # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: livebert # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: farelfarelbb@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+    - https://x.com/lievebert177671 # change to your Twitter homepage
     - https://github.com/liebertsenku # change to your GitHub homepage
     # Uncomment below to add more social links
     - https://www.instagram.com/frrll.agl
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://instagram.fupg3-1.fna.fbcdn.net/v/t51.2885-19/234557281_231109165683551_4870151173504217355_n.jpg?_nc_ht=instagram.fupg3-1.fna.fbcdn.net&_nc_cat=111&_nc_oc=Q6cZ2QHGhDA2HnYj2oP-oiWYJyVYcGvPpFzDvxPiOaWPjDIuE_MswLapJH_RCNqmqtShoNo&_nc_ohc=PJsio523DfIQ7kNvwEDTDLi&_nc_gid=JyhOKR4NIkDIoQ6fDk1JsA&edm=ALGbJPMBAAAA&ccb=7-5&oh=00_AfEAtPGZBP_bSdro8-F5pdK8djCM61pwk6rHPIIVPBgbew&oe=6817F517&_nc_sid=7d3ac5
+avatar: https://drive.google.com/file/d/10C0B3QRxxvRPASXNxa7OXv6FBxF973_e/view?usp=sharing
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
